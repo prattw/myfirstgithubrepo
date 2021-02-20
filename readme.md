@@ -36,3 +36,15 @@ Three ways to add files to staging
 git commit -m "some randome text, something descriptive"
 ```
 ** If you forget the -m, you'll end up in vim, to exit, type: ":wq"**
+
+---
+
+## Looking at our commit history
+
+```
+git log
+```
+
+```
+git log --oneline
+```
